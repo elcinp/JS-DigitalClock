@@ -1,4 +1,5 @@
 function currentTime(){
+    
     const today = new Date();
     let hours = today.getHours(); // get hours
     let minutes = today.getMinutes(); // get minutes
